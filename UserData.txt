@@ -1,0 +1,12 @@
+  UID  Name               D.o.B        
+   17  David Beckham      1975-05-02     
+   07  Cristiano Ronaldo  1985-02-05      
+   32  Wayne Rooney       1985-10-24
+   18  Barack Obama       1961-08-04    
+   10  Lionel Messi       1987-06-24    
+   01  Alan Turing        1912-06-23
+   80  Ada Lovelace       1815-12-10 
+   71  Steve Jobs         1955-02-24 
+   33  Mark Zuckerberg    1984-05-14 
+   19  Bill Gates         1955-10-28 
+   27  Minnie Mouse       1928-11-18
